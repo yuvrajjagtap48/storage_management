@@ -66,7 +66,5 @@ Hey there! I’m **Yuvraj Jagtap**, a passionate full-stack developer who believ
 - 🌐 Focused on real-world problems with production-ready code – not just prototypes.
 - 🎯 On a mission to turn ideas into impactful solutions.
 
-> This project isn't just a file manager – it's an example of how I treat every application like a product: thinking about security, usability, performance, and scale.
-
 ---
 
